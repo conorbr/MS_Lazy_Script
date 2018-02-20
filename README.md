@@ -13,6 +13,7 @@ Now that you have these clone this repository:
 cd Desktop
 git clone https://github.com/conorbr/MS_Lazy_Script.git
 cd MS_Lazy_Script
+gem install launchy
 ruby publish_a_roo_9000.rb
 ```
 
