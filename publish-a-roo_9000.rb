@@ -1,6 +1,4 @@
 require 'launchy'
-require './methods.rb'
-
 
 def publish(array, locale)
   array.each do |bid|
